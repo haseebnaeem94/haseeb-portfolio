@@ -1,0 +1,9 @@
+.my-footer{
+    height: 60px;
+    background-color: lawngreen;
+    color: blueviolet;
+    display: flex;
+    align-items: center;
+    padding-left: 360px;
+
+}

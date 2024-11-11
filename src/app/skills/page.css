@@ -1,0 +1,81 @@
+.skills-section{
+    background-color: black;
+    height: 100vh;
+}
+.skills{
+    color: #d19efd;
+    font-size: xx-large;
+    font-weight: 900;
+    text-align: center;
+    margin: 20px;
+}
+.skill1{
+    display: flex;
+    justify-content: space-evenly;
+}
+.skill-1{
+    color: #d19efd;
+    font-size: larger;
+    font-weight: bold;
+
+}
+.my-skill1{
+    height: 30px;
+    width: 130px;
+    border: 2px solid black;
+    border-radius: 30px 30px 30px 30px;
+    background-color: #d19efd;
+}
+
+.skill2{
+    display: flex;
+    justify-content: space-evenly;
+}
+.skill-2{
+    color: #d19efd;
+    font-size: larger;
+    font-weight: bold;
+
+}
+.my-skill2{
+    height: 30px;
+    width: 130px;
+    border: 2px solid black;
+    border-radius: 30px 30px 30px 30px;
+    background-color: #d19efd;
+}
+.skill3{
+    display: flex;
+    justify-content: space-evenly;
+}
+.skill-3{
+    color: #d19efd;
+    font-size: larger;
+    font-weight: bold;
+
+}
+.my-skill3{
+    height: 30px;
+    width: 130px;
+    border: 2px solid black;
+    border-radius: 30px 30px 30px 30px;
+    background-color: #d19efd;
+}
+.skill4{
+    display: flex;
+    justify-content: space-evenly;
+}
+.skill-4{
+    color: #d19efd;
+    font-size: larger;
+    font-weight: bold;
+
+}
+.my-skill4{
+    height: 30px;
+    width: 130px;
+    border: 2px solid black;
+    border-radius: 30px 30px 30px 30px;
+    background-color: #d19efd;
+}
+

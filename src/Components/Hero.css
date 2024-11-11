@@ -1,0 +1,22 @@
+.hero-section{
+    display: flex;
+}
+.hero{
+    height: 628px;
+    width: 50%;
+    
+}
+.hero2{
+    background-color: black;
+    color: white;
+    padding-top: 250px;
+    font-size: xx-large;
+    font-weight: 900;
+    
+}
+.hero2-image{
+    font-weight: bolder;
+    text-align: center;
+    align-items: center;
+}
+

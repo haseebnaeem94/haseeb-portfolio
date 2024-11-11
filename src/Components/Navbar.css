@@ -1,0 +1,20 @@
+*{padding: 0px;
+    margin: 0px;
+}
+
+.mynav{
+    
+    background-color: white;
+    color: lawngreen;
+    box-shadow: 2px 2px 2px 2px inset yellowgreen;
+}
+.nav{
+    display: flex;
+    justify-content: end;
+    list-style-type: none;
+    gap: 30px;
+    padding: 20px;
+    font-size: large;
+    
+
+}

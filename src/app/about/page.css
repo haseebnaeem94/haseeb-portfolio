@@ -1,0 +1,27 @@
+.about-section{
+    background-color: black;
+}
+
+.about{
+    
+    color: #d19efd;
+    font-size: xx-large;
+    font-weight: 900;
+    text-align: center;
+    margin: 20px;
+
+}
+.about1{
+    height: 100vh;
+    
+  
+}
+.about-image{
+    display: flex;
+}
+.about-para{
+    font-weight: bold;
+    color: #d19efd;
+    padding-top: 50px;
+
+}

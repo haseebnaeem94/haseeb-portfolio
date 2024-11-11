@@ -1,0 +1,50 @@
+.projects{
+    background-color: black;
+    height: 100vh;
+}
+.my-projects{
+    color: #d19efd;
+    font-size: xx-large;
+    font-weight: 900;
+    text-align: center;
+    margin: 20px;
+}
+.portfolio{
+    display: flex;
+    justify-content: space-evenly;
+}
+.project-1{
+    height: 400px;
+    width: 30%;
+    border: 2px solid black;
+}
+.project-2{
+    height: 400px;
+    width: 30%;
+    border: 2px solid black;
+}
+.project1-image{
+    height: 40px;
+}
+.project-desc{
+    font-weight: bold;
+    padding-top: 20px;
+    color: #d19efd;
+}
+.view-1{
+    font-weight: bold;
+    color: #d19efd;
+    text-align: center;
+    padding-top: 40px;
+}
+.project2-desc{
+    font-weight: bold;
+    padding-top: 20px;
+    color: #d19efd;
+}
+.view-2{
+    font-weight: bold;
+    color: #d19efd;
+    text-align: center;
+    padding-top: 40px;
+}
