@@ -2,7 +2,6 @@
 
 import "./Hero.css"
 import Image from "next/image"
-import Typewriter from 'typewriter-effect';
 import image1 from "../../public/haseeb 123.png"
 
 
@@ -19,14 +18,10 @@ const Hero = () => {
         <div className="hero2 hero">
             <div className="hero2-image">
               Hey Meet me I am Haseeb Naeem
+              I am Web Developer and SEO Expert
             
-            <Typewriter
-  options={{
-    strings: ['Web Developer', 'SEO Expert'],
-    autoStart: true,
-    loop: true,
-  }}
-/>
+            
+
             </div>
         </div>
       
