@@ -1,7 +1,7 @@
 import "./page.css"
 import Image from "next/image"
 import image4 from "../../../public/haseeb image 4.png"
-import Navbar from "@/components/Navbar"
+import Navbar from "@/Components/Navbar"
 
 
 const About = () => {

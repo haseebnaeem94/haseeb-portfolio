@@ -1,5 +1,5 @@
-import Navbar from "@/components/Navbar"
-import "./Page.css"
+import Navbar from "@/Components/Navbar"
+import "./page.css"
 
 const Skills = () => {
   return (
