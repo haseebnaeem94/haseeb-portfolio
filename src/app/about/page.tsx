@@ -1,14 +1,14 @@
 import "./page.css"
 import Image from "next/image"
 import image4 from "../../../public/haseeb image 4.png"
-import Navbar from "@/Components/Navbar"
+import Navbar from "@/components/Navbar"
 
 
 const About = () => {
   return (
     <div className="about-section">
       <Navbar />
-        <div className="about">About Me
+        <div className="about" data-aos="flip-right" >About Me
         </div>
         
         <div className="about1">

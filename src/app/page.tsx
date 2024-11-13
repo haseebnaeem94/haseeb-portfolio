@@ -1,8 +1,8 @@
 "use client"
 
 
-import Navbar from "@/Components/Navbar";
-import Hero from "@/Components/Hero";
+import Navbar from "@/components/Navbar";
+import Hero from "@/components/Hero";
 import AOS from "aos"
 import "aos/dist/aos.css";
 import { useEffect } from "react";

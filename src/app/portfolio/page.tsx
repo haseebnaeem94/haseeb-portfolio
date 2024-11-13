@@ -1,5 +1,5 @@
 import "./Page.css"
-import Navbar from "@/Components/Navbar"
+import Navbar from "@/components/Navbar"
 import Image from "next/image"
 import image1 from "../../../public/project 1 image.png"
 import image2 from "../../../public/resume image.png"
